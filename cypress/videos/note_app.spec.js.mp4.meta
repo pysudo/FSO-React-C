@@ -1,0 +1,36 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=5074
+END=6825
+title=Note app front page can be opened
+[CHAPTER]
+TIMEBASE=1/1000
+START=7787
+END=8581
+title=Note app login form can be opened
+[CHAPTER]
+TIMEBASE=1/1000
+START=7992
+END=9378
+title=Note app user can log in
+[CHAPTER]
+TIMEBASE=1/1000
+START=9419
+END=10766
+title=Note app login fails with wrong password
+[CHAPTER]
+TIMEBASE=1/1000
+START=10211
+END=12115
+title=Note app when logged in a new note can be created
+[CHAPTER]
+TIMEBASE=1/1000
+START=12579
+END=14020
+title=Note app when logged in and a note exists it can be made important
+[CHAPTER]
+TIMEBASE=1/1000
+START=13713
+END=15463
+title=Note app when logged in and several notes exist one of those can be made important
